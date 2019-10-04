@@ -28,5 +28,10 @@ table {
 }
 
 td {
-    font-style: italic;
+    text-decoration: emotion;
   }
+footer {
+  color:#2f07f5
+}
+#one {
+    color: red;

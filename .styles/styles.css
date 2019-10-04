@@ -1,0 +1,32 @@
+* {
+  font-size: 18px;
+  color: #00cc9c;
+}
+body {
+    background-color: #f1e6f7;
+}
+h1 {
+    font-size: 48px;
+    color:#07a1e3
+}
+h2 {
+  font-size: 36px;
+  color:#be33d6
+}
+h3 {
+  font-size: 18px;
+  color:#4dbdd6
+}
+h4 {
+
+}
+h5 {
+
+}
+table {
+    border: 8px solid pink;
+}
+
+td {
+    font-style: italic;
+  }

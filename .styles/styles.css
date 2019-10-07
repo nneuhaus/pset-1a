@@ -5,10 +5,7 @@
 body {
     background-color: #f1e6f7;
 }
-h1 {
-    font-size: 48px;
-    color:#07a1e3
-}
+
 h2 {
   font-size: 36px;
   color:#be33d6
@@ -35,3 +32,8 @@ footer {
 }
 #one {
     color: red;
+}
+.section-header {
+  font-size: 48px;
+  color:#07a1e3
+}

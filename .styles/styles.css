@@ -37,4 +37,7 @@ footer {
   font-size: 48px;
   color:#07a1e3
 }
-.
+.section-body {
+  font-size: 24px;
+  color: red;
+}

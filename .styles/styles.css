@@ -5,7 +5,10 @@
 body {
     background-color: #f1e6f7;
 }
-
+h1 {
+  font-size:48px;
+  color:#07a1e3;
+}
 h2 {
   font-size: 36px;
   color:#be33d6
@@ -14,10 +17,6 @@ h3 {
   font-size: 18px;
   color:#4dbdd6
 }
-h4 {
-
-}
-h5 {
 
 }
 table {
@@ -30,8 +29,7 @@ td {
 footer {
   color:#2f07f5
 }
-#one {
-    color: red;
+
 }
 .section-header {
   font-size: 48px;
@@ -40,4 +38,28 @@ footer {
 .section-body {
   font-size: 24px;
   color: red;
+}
+.section-footer {
+
+}
+
+#underline {
+  text-decoration: underline;
+  text-decoration-color: black;
+}
+#emphasize {
+  text-decoration: underline 4px;
+  text-decoration-color: purple;
+  font-size: 20px;
+}
+#font {
+  font: 1.5em Georgia,serif;
+}
+typeofstring[target=”targetvalue”] {
+}
+#beHovered:hover {
+  color: purple;
+}
+p#combo {
+  text-indent: inherit;
 }

@@ -26,11 +26,7 @@ table {
 td {
     text-decoration: emotion;
   }
-footer {
-  color:#2f07f5
-}
 
-}
 .section-header {
   font-size: 48px;
   color:#07a1e3
@@ -40,7 +36,7 @@ footer {
   color: red;
 }
 .section-footer {
-
+  color:#2f07f5;
 }
 
 #underline {
@@ -55,11 +51,12 @@ footer {
 #font {
   font: 1.5em Georgia,serif;
 }
-typeofstring[target=”targetvalue”] {
-}
+a[title] {
+    color: red;
+  }
 #beHovered:hover {
   color: purple;
 }
-p#combo {
-  text-indent: inherit;
+div#indent{
+  text-indent: 20px;
 }

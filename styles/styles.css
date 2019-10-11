@@ -27,6 +27,10 @@ td {
     text-decoration: emotion;
   }
 
+p {
+   font-family: "Courier New", monospace;
+}
+
 .section-header {
   font-size: 48px;
   color:#07a1e3
